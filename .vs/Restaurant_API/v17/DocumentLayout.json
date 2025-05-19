@@ -1,0 +1,649 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\gehad\\api\\Restaurant_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\repository\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\repository\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\repository\\iorderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\repository\\iorderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\dtos\\orderdto\\readorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\dtos\\orderdto\\readorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\mapperconfig\\mappconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\mapperconfig\\mappconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\dtos\\orderitemdto\\readorderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\dtos\\orderitemdto\\readorderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\dtos\\categorydto\\readcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\dtos\\categorydto\\readcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\dtos\\productsdto\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\dtos\\productsdto\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\dtos\\productsdto\\readproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\dtos\\productsdto\\readproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\restaurant_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\restaurant_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\migrations\\20250515231931_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\migrations\\20250515231931_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\gehad\\api\\restaurant_api\\restaurant_api\\migrations\\20250515011541_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\migrations\\20250515011541_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 22,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 428,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Restaurant_API\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAQwHoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T21:49:05.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\DTOS\\Account\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\DTOS\\Account\\LoginDTO.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\DTOS\\Account\\LoginDTO.cs",
+              "RelativeToolTip": "Restaurant_API\\DTOS\\Account\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T21:43:52.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\DTOS\\Account\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\DTOS\\Account\\RegisterDTO.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\DTOS\\Account\\RegisterDTO.cs",
+              "RelativeToolTip": "Restaurant_API\\DTOS\\Account\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T21:43:22.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Program.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Program.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Program.cs",
+              "RelativeToolTip": "Restaurant_API\\Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAgwFsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:09:27.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Models\\User.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Models\\User.cs",
+              "RelativeToolTip": "Restaurant_API\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:26:11.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Restaurant_API\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAgwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T00:57:32.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Restaurant_API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA6wBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:38:04.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Restaurant_API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T21:55:24.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderItemController.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Controllers\\OrderItemController.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Controllers\\OrderItemController.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Controllers\\OrderItemController.cs",
+              "RelativeToolTip": "Restaurant_API\\Controllers\\OrderItemController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:35:20.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Restaurant_API\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAowDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:30:32.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Restaurant_API\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:42:35.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Models\\OrderItem.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Restaurant_API\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:23:55.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Repository\\OrderRepository.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "Restaurant_API\\Repository\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T20:15:28.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Models\\Product.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Models\\Product.cs",
+              "RelativeToolTip": "Restaurant_API\\Models\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T23:41:18.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Models\\Order.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Models\\Order.cs",
+              "RelativeToolTip": "Restaurant_API\\Models\\Order.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAywBAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:24:05.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IOrderItemRepository.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Repository\\IOrderItemRepository.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Repository\\IOrderItemRepository.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Repository\\IOrderItemRepository.cs",
+              "RelativeToolTip": "Restaurant_API\\Repository\\IOrderItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T20:25:18.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderItemRepository.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Repository\\OrderItemRepository.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Repository\\OrderItemRepository.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Repository\\OrderItemRepository.cs",
+              "RelativeToolTip": "Restaurant_API\\Repository\\OrderItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T20:27:56.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Repository\\GenericRepository.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "Restaurant_API\\Repository\\GenericRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAA6wDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T21:27:58.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Repository\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Repository\\IOrderRepository.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Repository\\IOrderRepository.cs",
+              "RelativeToolTip": "Restaurant_API\\Repository\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T20:13:34.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReadOrder.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\DTOS\\OrderDTO\\ReadOrder.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\DTOS\\OrderDTO\\ReadOrder.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\DTOS\\OrderDTO\\ReadOrder.cs",
+              "RelativeToolTip": "Restaurant_API\\DTOS\\OrderDTO\\ReadOrder.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAywBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:12:13.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "mappconfig.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\MapperConfig\\mappconfig.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\MapperConfig\\mappconfig.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\MapperConfig\\mappconfig.cs",
+              "RelativeToolTip": "Restaurant_API\\MapperConfig\\mappconfig.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:08:29.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Repository\\CategoryRepository.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Restaurant_API\\Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T08:49:50.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Repository\\ICategoryRepository.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "Restaurant_API\\Repository\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T08:19:36.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ReadOrderItem.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\DTOS\\OrderItemDTO\\ReadOrderItem.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\DTOS\\OrderItemDTO\\ReadOrderItem.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\DTOS\\OrderItemDTO\\ReadOrderItem.cs",
+              "RelativeToolTip": "Restaurant_API\\DTOS\\OrderItemDTO\\ReadOrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:38:07.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ReadCategory.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\DTOS\\CategoryDTO\\ReadCategory.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\DTOS\\CategoryDTO\\ReadCategory.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\DTOS\\CategoryDTO\\ReadCategory.cs",
+              "RelativeToolTip": "Restaurant_API\\DTOS\\CategoryDTO\\ReadCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:50:29.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReadProduct.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\DTOS\\ProductsDTO\\ReadProduct.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\DTOS\\ProductsDTO\\ReadProduct.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\DTOS\\ProductsDTO\\ReadProduct.cs",
+              "RelativeToolTip": "Restaurant_API\\DTOS\\ProductsDTO\\ReadProduct.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAywBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:51:58.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddProduct.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\DTOS\\ProductsDTO\\AddProduct.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\DTOS\\ProductsDTO\\AddProduct.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\DTOS\\ProductsDTO\\AddProduct.cs",
+              "RelativeToolTip": "Restaurant_API\\DTOS\\ProductsDTO\\AddProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:50:33.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Restaurant_API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:38:08.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Models\\Category.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Models\\Category.cs",
+              "RelativeToolTip": "Restaurant_API\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T00:58:38.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Repository\\ProductRepository.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Restaurant_API\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T22:56:32.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Repository\\IProductRepository.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "Restaurant_API\\Repository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T22:47:30.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Repository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Repository\\IGenericRepository.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Repository\\IGenericRepository.cs",
+              "RelativeToolTip": "Restaurant_API\\Repository\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T21:11:19.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Restaurant_API.csproj",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Restaurant_API.csproj",
+              "RelativeDocumentMoniker": "Restaurant_API\\Restaurant_API.csproj",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Restaurant_API.csproj",
+              "RelativeToolTip": "Restaurant_API\\Restaurant_API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-16T10:47:48.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\appsettings.json",
+              "RelativeDocumentMoniker": "Restaurant_API\\appsettings.json",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\appsettings.json",
+              "RelativeToolTip": "Restaurant_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T01:04:46.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250515231931_v2.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Migrations\\20250515231931_v2.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Migrations\\20250515231931_v2.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Migrations\\20250515231931_v2.cs",
+              "RelativeToolTip": "Restaurant_API\\Migrations\\20250515231931_v2.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T23:19:32.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Restaurant_API\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:16:02.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20250515011541_v1.cs",
+              "DocumentMoniker": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Migrations\\20250515011541_v1.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Migrations\\20250515011541_v1.cs",
+              "ToolTip": "D:\\gehad\\api\\Restaurant_API\\Restaurant_API\\Migrations\\20250515011541_v1.cs",
+              "RelativeToolTip": "Restaurant_API\\Migrations\\20250515011541_v1.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T01:15:41.944Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
