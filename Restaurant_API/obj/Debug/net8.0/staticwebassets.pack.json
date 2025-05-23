@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\images\\Best-Grilled-Chicken-Breast.jpg",
+      "PackagePath": "staticwebassets\\images\\Best-Grilled-Chicken-Breast.jpg"
+    },
+    {
+      "Id": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\images\\Cheese-Balls-1.jpg",
+      "PackagePath": "staticwebassets\\images\\Cheese-Balls-1.jpg"
+    },
+    {
+      "Id": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\images\\Grilled-Chicken-Breast-7-500x500.jpg",
+      "PackagePath": "staticwebassets\\images\\Grilled-Chicken-Breast-7-500x500.jpg"
+    },
+    {
+      "Id": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\images\\f2.png",
+      "PackagePath": "staticwebassets\\images\\f2.png"
+    },
+    {
+      "Id": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\images\\f7.png",
+      "PackagePath": "staticwebassets\\images\\f7.png"
+    },
+    {
+      "Id": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\images\\images.jpg",
+      "PackagePath": "staticwebassets\\images\\images.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Restaurant_API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Restaurant_API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Restaurant_API.props",
+      "PackagePath": "build\\Restaurant_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Restaurant_API.props",
+      "PackagePath": "buildMultiTargeting\\Restaurant_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Restaurant_API.props",
+      "PackagePath": "buildTransitive\\Restaurant_API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

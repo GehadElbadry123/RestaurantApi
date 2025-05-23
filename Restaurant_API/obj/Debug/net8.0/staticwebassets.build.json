@@ -1,0 +1,640 @@
+{
+  "Version": 1,
+  "Hash": "Rgf2a+8lGKxnthh+FcLYCv34C+8jdN17Na7oUxQ5DFg=",
+  "Source": "Restaurant_API",
+  "BasePath": "_content/Restaurant_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Restaurant_API\\wwwroot",
+      "Source": "Restaurant_API",
+      "ContentRoot": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\",
+      "BasePath": "_content/Restaurant_API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\images\\Best-Grilled-Chicken-Breast.jpg",
+      "SourceId": "Restaurant_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\",
+      "BasePath": "_content/Restaurant_API",
+      "RelativePath": "images/Best-Grilled-Chicken-Breast#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eqsn3fxhoi",
+      "Integrity": "NsBg6JCOxyhzoYFqw+Aby+SB4yZWAAddw8FfIVFqwjM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Best-Grilled-Chicken-Breast.jpg"
+    },
+    {
+      "Identity": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\images\\Cheese-Balls-1.jpg",
+      "SourceId": "Restaurant_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\",
+      "BasePath": "_content/Restaurant_API",
+      "RelativePath": "images/Cheese-Balls-1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "643ff7tkbw",
+      "Integrity": "eoe9NbY8Oqjba3l6nZ9g3yaDIFtyWgq4N8JS7tjlok0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Cheese-Balls-1.jpg"
+    },
+    {
+      "Identity": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\images\\f2.png",
+      "SourceId": "Restaurant_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\",
+      "BasePath": "_content/Restaurant_API",
+      "RelativePath": "images/f2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ktovtbb25v",
+      "Integrity": "aAj2Yr4QUUIh3m5c4Eko0d7aHtuL7jcd2tgFsXsZGL8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f2.png"
+    },
+    {
+      "Identity": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\images\\f7.png",
+      "SourceId": "Restaurant_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\",
+      "BasePath": "_content/Restaurant_API",
+      "RelativePath": "images/f7#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5mp1grcj9z",
+      "Integrity": "7RND20RFON1IvEAhjPA47bPHZNetdfH+So3rz9Ef5mw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f7.png"
+    },
+    {
+      "Identity": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\images\\Grilled-Chicken-Breast-7-500x500.jpg",
+      "SourceId": "Restaurant_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\",
+      "BasePath": "_content/Restaurant_API",
+      "RelativePath": "images/Grilled-Chicken-Breast-7-500x500#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wjvzyhx4t4",
+      "Integrity": "hB/zvqpF1k72P5oJHHM9wkWrzW62bG0jUkJAoXhlGLs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Grilled-Chicken-Breast-7-500x500.jpg"
+    },
+    {
+      "Identity": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\images\\images.jpg",
+      "SourceId": "Restaurant_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\",
+      "BasePath": "_content/Restaurant_API",
+      "RelativePath": "images/images#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1fn0viu73c",
+      "Integrity": "c+LKex3rFPi5GDOADxD4VFWObVVEYzN/T6TJVVttZ0o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\images.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/Best-Grilled-Chicken-Breast.eqsn3fxhoi.jpg",
+      "AssetFile": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\images\\Best-Grilled-Chicken-Breast.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "293557"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NsBg6JCOxyhzoYFqw+Aby+SB4yZWAAddw8FfIVFqwjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 20:43:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eqsn3fxhoi"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Best-Grilled-Chicken-Breast.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NsBg6JCOxyhzoYFqw+Aby+SB4yZWAAddw8FfIVFqwjM="
+        }
+      ]
+    },
+    {
+      "Route": "images/Best-Grilled-Chicken-Breast.jpg",
+      "AssetFile": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\images\\Best-Grilled-Chicken-Breast.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "293557"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NsBg6JCOxyhzoYFqw+Aby+SB4yZWAAddw8FfIVFqwjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 20:43:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NsBg6JCOxyhzoYFqw+Aby+SB4yZWAAddw8FfIVFqwjM="
+        }
+      ]
+    },
+    {
+      "Route": "images/Cheese-Balls-1.643ff7tkbw.jpg",
+      "AssetFile": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\images\\Cheese-Balls-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "209223"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eoe9NbY8Oqjba3l6nZ9g3yaDIFtyWgq4N8JS7tjlok0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 20:41:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "643ff7tkbw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Cheese-Balls-1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eoe9NbY8Oqjba3l6nZ9g3yaDIFtyWgq4N8JS7tjlok0="
+        }
+      ]
+    },
+    {
+      "Route": "images/Cheese-Balls-1.jpg",
+      "AssetFile": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\images\\Cheese-Balls-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "209223"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eoe9NbY8Oqjba3l6nZ9g3yaDIFtyWgq4N8JS7tjlok0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 20:41:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eoe9NbY8Oqjba3l6nZ9g3yaDIFtyWgq4N8JS7tjlok0="
+        }
+      ]
+    },
+    {
+      "Route": "images/f2.ktovtbb25v.png",
+      "AssetFile": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\images\\f2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103712"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aAj2Yr4QUUIh3m5c4Eko0d7aHtuL7jcd2tgFsXsZGL8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ktovtbb25v"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aAj2Yr4QUUIh3m5c4Eko0d7aHtuL7jcd2tgFsXsZGL8="
+        }
+      ]
+    },
+    {
+      "Route": "images/f2.png",
+      "AssetFile": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\images\\f2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103712"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aAj2Yr4QUUIh3m5c4Eko0d7aHtuL7jcd2tgFsXsZGL8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aAj2Yr4QUUIh3m5c4Eko0d7aHtuL7jcd2tgFsXsZGL8="
+        }
+      ]
+    },
+    {
+      "Route": "images/f7.5mp1grcj9z.png",
+      "AssetFile": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\images\\f7.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "138396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7RND20RFON1IvEAhjPA47bPHZNetdfH+So3rz9Ef5mw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5mp1grcj9z"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f7.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7RND20RFON1IvEAhjPA47bPHZNetdfH+So3rz9Ef5mw="
+        }
+      ]
+    },
+    {
+      "Route": "images/f7.png",
+      "AssetFile": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\images\\f7.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "138396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7RND20RFON1IvEAhjPA47bPHZNetdfH+So3rz9Ef5mw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7RND20RFON1IvEAhjPA47bPHZNetdfH+So3rz9Ef5mw="
+        }
+      ]
+    },
+    {
+      "Route": "images/Grilled-Chicken-Breast-7-500x500.jpg",
+      "AssetFile": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\images\\Grilled-Chicken-Breast-7-500x500.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "66662"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hB/zvqpF1k72P5oJHHM9wkWrzW62bG0jUkJAoXhlGLs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 20:44:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hB/zvqpF1k72P5oJHHM9wkWrzW62bG0jUkJAoXhlGLs="
+        }
+      ]
+    },
+    {
+      "Route": "images/Grilled-Chicken-Breast-7-500x500.wjvzyhx4t4.jpg",
+      "AssetFile": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\images\\Grilled-Chicken-Breast-7-500x500.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "66662"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hB/zvqpF1k72P5oJHHM9wkWrzW62bG0jUkJAoXhlGLs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 20:44:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wjvzyhx4t4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Grilled-Chicken-Breast-7-500x500.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hB/zvqpF1k72P5oJHHM9wkWrzW62bG0jUkJAoXhlGLs="
+        }
+      ]
+    },
+    {
+      "Route": "images/images.1fn0viu73c.jpg",
+      "AssetFile": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\images\\images.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13011"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c+LKex3rFPi5GDOADxD4VFWObVVEYzN/T6TJVVttZ0o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 20:41:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1fn0viu73c"
+        },
+        {
+          "Name": "label",
+          "Value": "images/images.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-c+LKex3rFPi5GDOADxD4VFWObVVEYzN/T6TJVVttZ0o="
+        }
+      ]
+    },
+    {
+      "Route": "images/images.jpg",
+      "AssetFile": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\images\\images.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13011"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c+LKex3rFPi5GDOADxD4VFWObVVEYzN/T6TJVVttZ0o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 20:41:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-c+LKex3rFPi5GDOADxD4VFWObVVEYzN/T6TJVVttZ0o="
+        }
+      ]
+    }
+  ]
+}

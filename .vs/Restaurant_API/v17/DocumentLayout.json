@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\iti\\web api\\project of web api\\new folder\\restaurant_api\\restaurant_api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\iti\\web api\\project of web api\\new folder\\restaurant_api\\restaurant_api\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\iti\\web api\\project of web api\\new folder\\restaurant_api\\restaurant_api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\iti\\web api\\project of web api\\new folder\\restaurant_api\\restaurant_api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\iti\\web api\\project of web api\\new folder\\restaurant_api\\restaurant_api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\iti\\web api\\project of web api\\new folder\\restaurant_api\\restaurant_api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\iti\\web api\\project of web api\\new folder\\restaurant_api\\restaurant_api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\iti\\web api\\project of web api\\new folder\\restaurant_api\\restaurant_api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|d:\\iti\\web api\\project of web api\\new folder\\restaurant_api\\restaurant_api\\wwwroot\\images\\f7.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{92C26111-DAB2-4221-B961-2032368B067F}|Restaurant_API\\Restaurant_API.csproj|solutionrelative:restaurant_api\\wwwroot\\images\\f7.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 22,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 428,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Models\\OrderItem.cs",
+              "ToolTip": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Restaurant_API\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:00:40.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Models\\Order.cs",
+              "ToolTip": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\Models\\Order.cs",
+              "RelativeToolTip": "Restaurant_API\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:00:39.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Restaurant_API\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAEIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:50:13.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Restaurant_API\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:13:22.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Restaurant_API\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAxwJEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:00:00.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Models\\Product.cs",
+              "ToolTip": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\Models\\Product.cs",
+              "RelativeToolTip": "Restaurant_API\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T23:01:15.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Restaurant_API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:59:42.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "f7.png - PNG [303x251, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\images\\f7.png",
+              "RelativeDocumentMoniker": "Restaurant_API\\wwwroot\\images\\f7.png",
+              "ToolTip": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\wwwroot\\images\\f7.png - PNG [303x251, 32 bit, PNG]",
+              "RelativeToolTip": "Restaurant_API\\wwwroot\\images\\f7.png - PNG [303x251, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-22T21:16:05.968Z",
+              "EditorCaption": " - PNG [303x251, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Restaurant_API\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\iti\\web api\\Project of web api\\New folder\\Restaurant_API\\Restaurant_API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Restaurant_API\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:13:05.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,498 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "images/Best-Grilled-Chicken-Breast.eqsn3fxhoi.jpg",
+      "AssetFile": "images/Best-Grilled-Chicken-Breast.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "293557"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NsBg6JCOxyhzoYFqw+Aby+SB4yZWAAddw8FfIVFqwjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 20:43:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eqsn3fxhoi"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NsBg6JCOxyhzoYFqw+Aby+SB4yZWAAddw8FfIVFqwjM="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Best-Grilled-Chicken-Breast.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/Best-Grilled-Chicken-Breast.jpg",
+      "AssetFile": "images/Best-Grilled-Chicken-Breast.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "293557"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NsBg6JCOxyhzoYFqw+Aby+SB4yZWAAddw8FfIVFqwjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 20:43:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NsBg6JCOxyhzoYFqw+Aby+SB4yZWAAddw8FfIVFqwjM="
+        }
+      ]
+    },
+    {
+      "Route": "images/Cheese-Balls-1.643ff7tkbw.jpg",
+      "AssetFile": "images/Cheese-Balls-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "209223"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eoe9NbY8Oqjba3l6nZ9g3yaDIFtyWgq4N8JS7tjlok0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 20:41:43 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "643ff7tkbw"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eoe9NbY8Oqjba3l6nZ9g3yaDIFtyWgq4N8JS7tjlok0="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Cheese-Balls-1.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/Cheese-Balls-1.jpg",
+      "AssetFile": "images/Cheese-Balls-1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "209223"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eoe9NbY8Oqjba3l6nZ9g3yaDIFtyWgq4N8JS7tjlok0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 20:41:43 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eoe9NbY8Oqjba3l6nZ9g3yaDIFtyWgq4N8JS7tjlok0="
+        }
+      ]
+    },
+    {
+      "Route": "images/Grilled-Chicken-Breast-7-500x500.jpg",
+      "AssetFile": "images/Grilled-Chicken-Breast-7-500x500.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "66662"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hB/zvqpF1k72P5oJHHM9wkWrzW62bG0jUkJAoXhlGLs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 20:44:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hB/zvqpF1k72P5oJHHM9wkWrzW62bG0jUkJAoXhlGLs="
+        }
+      ]
+    },
+    {
+      "Route": "images/Grilled-Chicken-Breast-7-500x500.wjvzyhx4t4.jpg",
+      "AssetFile": "images/Grilled-Chicken-Breast-7-500x500.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "66662"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hB/zvqpF1k72P5oJHHM9wkWrzW62bG0jUkJAoXhlGLs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 20:44:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wjvzyhx4t4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hB/zvqpF1k72P5oJHHM9wkWrzW62bG0jUkJAoXhlGLs="
+        },
+        {
+          "Name": "label",
+          "Value": "images/Grilled-Chicken-Breast-7-500x500.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/f2.ktovtbb25v.png",
+      "AssetFile": "images/f2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103712"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aAj2Yr4QUUIh3m5c4Eko0d7aHtuL7jcd2tgFsXsZGL8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ktovtbb25v"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aAj2Yr4QUUIh3m5c4Eko0d7aHtuL7jcd2tgFsXsZGL8="
+        },
+        {
+          "Name": "label",
+          "Value": "images/f2.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/f2.png",
+      "AssetFile": "images/f2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103712"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aAj2Yr4QUUIh3m5c4Eko0d7aHtuL7jcd2tgFsXsZGL8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aAj2Yr4QUUIh3m5c4Eko0d7aHtuL7jcd2tgFsXsZGL8="
+        }
+      ]
+    },
+    {
+      "Route": "images/f7.5mp1grcj9z.png",
+      "AssetFile": "images/f7.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "138396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7RND20RFON1IvEAhjPA47bPHZNetdfH+So3rz9Ef5mw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5mp1grcj9z"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7RND20RFON1IvEAhjPA47bPHZNetdfH+So3rz9Ef5mw="
+        },
+        {
+          "Name": "label",
+          "Value": "images/f7.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/f7.png",
+      "AssetFile": "images/f7.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "138396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7RND20RFON1IvEAhjPA47bPHZNetdfH+So3rz9Ef5mw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jan 2023 06:18:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7RND20RFON1IvEAhjPA47bPHZNetdfH+So3rz9Ef5mw="
+        }
+      ]
+    },
+    {
+      "Route": "images/images.1fn0viu73c.jpg",
+      "AssetFile": "images/images.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13011"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c+LKex3rFPi5GDOADxD4VFWObVVEYzN/T6TJVVttZ0o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 20:41:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1fn0viu73c"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-c+LKex3rFPi5GDOADxD4VFWObVVEYzN/T6TJVVttZ0o="
+        },
+        {
+          "Name": "label",
+          "Value": "images/images.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/images.jpg",
+      "AssetFile": "images/images.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13011"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c+LKex3rFPi5GDOADxD4VFWObVVEYzN/T6TJVVttZ0o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 22 May 2025 20:41:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-c+LKex3rFPi5GDOADxD4VFWObVVEYzN/T6TJVVttZ0o="
+        }
+      ]
+    }
+  ]
+}
